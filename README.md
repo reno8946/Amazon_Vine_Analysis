@@ -33,3 +33,7 @@ The purpose of this challenge is to analyze Amazon reviews written by members of
 * Paid vs. Unpaid Reviews
 
 ![image](https://user-images.githubusercontent.com/70483866/103340990-32c97c00-4a4b-11eb-87b7-863f7850630f.png)
+
+## Summary: 
+
+Based on the results generated for the baby data set, the data shows that there was not a positivity bias towards paid vine reviews as nearly 48% of the unpaid reviews were 5-star as compared to nearly 44% total 5-star reviews for the paid reviews. Overall, there was not much of a difference between percentage of 5 star reviews between both paid and unpaid reviews. However, it is important to keep in mind that there were nearly 54 times as many unpaid total reviews as compared to paid total reviews and nearly 60 times as many unpaid total 5-star unpaid reviews as compared to total 5-star paid reviews. It might be worth looking into whether performing an analysis by each product returns a differential impact on reviews between paid and unpaid reviews.

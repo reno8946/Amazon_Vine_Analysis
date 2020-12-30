@@ -6,3 +6,20 @@ The purpose of this challenge is to analyze Amazon reviews written by members of
 
 ## Results:
 
+### Total Paid Vine Reviews
+![image](https://user-images.githubusercontent.com/70483866/103340507-df0a6300-4a49-11eb-932d-71a6442b2438.png)
+
+### Total Unpaid Vine Reviews
+![image](https://user-images.githubusercontent.com/70483866/103340613-1842d300-4a4a-11eb-9f1e-da8b7684efbc.png)
+
+### Total 5 Star Paid Vine Reviews
+![image](https://user-images.githubusercontent.com/70483866/103340707-5e983200-4a4a-11eb-93b1-6fcd04c7e12d.png)
+
+### Total 5 Star Unpaid Vine Reviews
+![image](https://user-images.githubusercontent.com/70483866/103340758-7ff91e00-4a4a-11eb-8845-ad78219c836e.png)
+
+### Percentage of 5 Star Paid Vine Reviews
+![image](https://user-images.githubusercontent.com/70483866/103340818-b20a8000-4a4a-11eb-8c92-a48e42b4dd66.png)
+
+### Percentage of 5 Star Unpaid Vine Reviews
+![image](https://user-images.githubusercontent.com/70483866/103340849-c8b0d700-4a4a-11eb-91d7-9635e9b8deeb.png)

@@ -32,7 +32,7 @@ The purpose of this challenge is to analyze Amazon reviews written by members of
 
 * Paid vs. Unpaid Reviews
 
-![image](https://user-images.githubusercontent.com/70483866/103340990-32c97c00-4a4b-11eb-87b7-863f7850630f.png)
+![image](https://user-images.githubusercontent.com/70483866/103342356-ebdd8580-4a4e-11eb-9ac1-3dd1bd0c69a0.png)
 
 ## Summary: 
 

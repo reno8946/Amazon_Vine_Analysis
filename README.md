@@ -6,7 +6,7 @@ The purpose of this challenge is to analyze Amazon reviews written by members of
 
 ## Results:
 
-### Total Paid Vine Reviews
+* Total Paid Vine Reviews
 ![image](https://user-images.githubusercontent.com/70483866/103340507-df0a6300-4a49-11eb-932d-71a6442b2438.png)
 
 ### Total Unpaid Reviews
